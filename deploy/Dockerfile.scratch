@@ -1,0 +1,4 @@
+FROM scratch
+ADD . /app
+WORKDIR /app 
+CMD ["/app/api", "-conf", "/app/server-config.local.json"]

@@ -1,0 +1,18 @@
+{
+  "http-address": "0.0.0.0",
+  "http-port": 8080,
+  "http-ssl-enable":false,
+  "http-ssl-key": "",
+  "http-ssl-cert": "",
+  "redis-address": "127.0.0.1",
+  "redis-port": 6379,
+  "redis-db": 0,
+  "redis-password": "",
+  "auth-access-expires": 3600,
+  "auth-refresh-expires": 1814400,
+  "auth-access-base": "at",
+  "auth-refresh-base": "rt",
+  "auth-client-id":"520d51d058676a81e0610d069061967072c21d8a",
+  "auth-client-secret":"fc0c7e66334bcdb858cab2875ec87db223e83fbea8ea6693f07a0ba424854147",
+  "admins":[""]
+}
